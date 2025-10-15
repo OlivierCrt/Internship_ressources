@@ -3,7 +3,7 @@
 > **End-to-end reinforcement learning pipeline for robotic manipulation** - from parallel simulation training to real-world deployment with custom controllers
 
 [![IsaacLab](https://img.shields.io/badge/Simulation-IsaacLab-green?style=flat-square)](https://github.com/Olivier-AIST/IsaacLab)
-[![ROS2 Controller](https://img.shields.io/badge/Controller-ROS2%20%2B%20C%2B%2B-blue?style=flat-square)](https://github.com/Olivier-AIST/Franka_Custom_ROS2_Controller)
+[![ROS2 Controller](https://img.shields.io/badge/Controller-ROS2%20%2B%20FCI-blue?style=flat-square)](https://github.com/Olivier-AIST/Franka_Custom_ROS2_Controller)
 
 ---
 

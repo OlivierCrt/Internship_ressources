@@ -55,7 +55,7 @@ The system achieved **significant performance improvements** over traditional ca
 
 ### Parallel Training in IsaacLab
 <p align="center">
-  <img src="gifs/Agent_trainig.gif" alt="Parallel Training" width="90%"/>
+  <img src="/gifs/Agent_trainig.gif" alt="Parallel Training" width="90%"/>
   <br>
   <em>Multiple robot instances training simultaneously for efficient policy learning</em>
 </p>

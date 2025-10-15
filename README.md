@@ -103,7 +103,7 @@ mettre la photo du worlflow complete
 |-----------|-----------|------------|
 | **Simulation & Training** | IsaacLab (Isaac Sim) + RL algorithms | [ IsaacLab Fork](https://github.com/Olivier-AIST/IsaacLab) |
 | **Robot Controller** | C++ + ROS2 + Franka Control Interface | [ Custom Controller](https://github.com/Olivier-AIST/Franka_Custom_ROS2_Controller) |
-| **Perception** | Camera-based 6D pose estimation | - | [FoundationPose](https://github.com/NVlabs/FoundationPose)
+| **Perception** | Camera-based 6D pose estimation | [FoundationPose](https://github.com/NVlabs/FoundationPose) |
 | **Hardware** | Franka Emika Panda robot | - |
 
 ---

@@ -69,7 +69,7 @@ The system achieved **significant performance improvements** over traditional ca
 
 ### Virtual Twin - Real-Time Deployment
 <p align="center">
-  <img src="gifs/Virtual_twin.gif" alt="Virtual Twin" width="90%"/>
+  <img src="/gifs/Virtual_twin.gif" alt="Virtual Twin" width="90%"/>
   <br>
   <em>Digital twin visualization showing policy execution on real hardware</em>
 </p>
@@ -86,7 +86,7 @@ mettre la photo du worlflow complete
 
 ### Successful Object Manipulation
 <p align="center">
-  <img src="gifs/Agent_deployed.gif" alt="Successful Lift" width="90%"/>
+  <img src="/gifs/Agent_deployed.gif" alt="Successful Lift" width="90%"/>
   <br>
   <em>Trained policy successfully manipulating objects in the real world</em>
 </p>

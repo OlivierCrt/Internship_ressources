@@ -44,10 +44,11 @@ The system achieved **significant performance improvements** over traditional ca
 </tr>
 </table>
 
-* Key Improvements:**
+** Key Improvements:**
 - **Success Rate**: Significant increase across all test scenarios
 - **Robustness**: Better handling of object pose variations
 - **Generalization**: Trained policy transfers successfully to real hardware
+- **Time Optimized**: Increase of **70%** of the lifting time
 
 ---
 
